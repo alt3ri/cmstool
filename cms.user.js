@@ -7,9 +7,9 @@
 // @author       alteri
 // @match        */mod/quiz/*
 // @match        */course/view.php?*
-// @icon         https://animehay.club/themes/img/favicon.ico
-// @updateURL    https://github.com/nguyenvancaokyfpt/cmsfpt-tool/raw/main/script.user.js
-// @downloadURL  https://github.com/nguyenvancaokyfpt/cmsfpt-tool/raw/main/script.user.js
+// @icon         
+// @updateURL    https://github.com/alteri/cmstool/raw/main/cms.user.js
+// @downloadURL  https://github.com/alteri/cmstool/raw/main/cms.user.js
 // @license      MIT
 // ==/UserScript==
 
